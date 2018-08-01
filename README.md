@@ -1,4 +1,4 @@
-# queer.archive.work
+# queer.archive.work (2018)
 
 Printed Web 6 is queer.archive.work edited by Paul Soulellis. 
 
