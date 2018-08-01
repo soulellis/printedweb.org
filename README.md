@@ -1,4 +1,4 @@
-# queer.archive.work (2018)
+# Printed Web 6 (2018)
 
 Printed Web 6 is the final issue of [Printed Web](https://en.wikipedia.org/wiki/Library_of_the_Printed_Web#Printed_Web "Wikipedia: Library of the Printed Web"). It's [queer.archive.work](https://queer.archive.work), edited by [Paul Soulellis](https://en.wikipedia.org/wiki/Paul_Soulellis "Wikipedia: Paul Soulellis"). It launches at the NY Art Book Fair in September and the Boston Art Book Fair in October. This moment closes out one project, and starts a new one — the beginnings of a radical, queer archive (as yet unnamed)!
 
