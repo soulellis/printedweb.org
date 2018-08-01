@@ -7,5 +7,5 @@ American Artist, Som Bhatt, Jeffrey Cheung and Gabriel Ramirez (Unity Press), De
 
 ## Available 
 * 20 Sept 2018 at NY Art Book Fair
-* 12 Oct at Boston Art Book Fair
+* 12 Oct 2018 at Boston Art Book Fair
 * p2p at dat://queer.hashbase.io
