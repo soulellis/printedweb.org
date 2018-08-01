@@ -7,7 +7,7 @@ Printed Web 6 is queer.archive.work, edited by Paul Soulellis. It launches at th
 * Printed Web 6 is an assembling of queer methodologies … 
 * … with a particular view towards network culture, failure, and refutation; 
 * It’s an attempt to move far beyond the printed web;
-* it’s an experiment in publishing as artistic practice as resistance. 
+* It’s an experiment in publishing as artistic practice as resistance. 
 
 ## Contributors 
 American Artist, Som Bhatt, Jeffrey Cheung and Gabriel Ramirez (Unity Press), Demian DinéYazhi, Stefano Harney and Fred Moten, Jack Halberstam, Shawné Michaelain Holloway, Nora Khan, Nicole Killian, Be Oakley (Genderfail Archive), Porpentine Charity Heartscape, Nate Pyper, and Sal Randolph. 
