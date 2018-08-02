@@ -7,7 +7,7 @@ html, body{
 	font-size: 15px;
 	font-family: TimesNewRoman, "TimesNewRoman", Times, serif;
 	/*font-family:'steps-monoregular';*/
-	background-color: #FFFFFF;
+	background-color: #ffffff;
 	box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -26,26 +26,48 @@ body{
 div{
 	padding: 0px;
 	margin: 0px;
+	line-height: 7.6rem;
 	box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
+	-webkit-hyphens: auto;
+  	-ms-hyphens: auto;
+  	hyphens: auto;
 }
 
 
 
 a{
-	color: #000000;
+	color: #cccccc;
+	text-decoration: none;
+
 }
 
-a:visited{
-	color: #7D3C98;
+a:link {
+	color: #14fa9c;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #14fa9c;
+	color: #ffffff;
+}
+
+a:visited {
+	color: #14fa9c;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #14fa9c;
+	color: #ffffff;
 }
 
 h2{
 	display: block;
 	position: relative;
-	font-size: 5rem;
-	color: #000000;
+	font-size: 8rem;
+	color: #ccbbcc;
 	font-weight: normal;
 	text-align: left;
 	padding: 0;
